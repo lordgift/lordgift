@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer from Thailand.</h3>
 
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordgift" alt="lordgift" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordgift&theme=onedark" alt="lordgift" /></a> 
 </p>
 
 ### Blogs posts
