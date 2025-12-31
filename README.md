@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm LordGift</h1>
 <h3 align="center">A passionate mobile developer from Thailand.</h3>
 
-### Blogs posts
+  Mobile dev by day, full-stack tinkerer by night! 🚀 I love experimenting with new tools for make life better. I write about my journey to make tech a little easier for everyone or the next big thing in tech.
 
-- 📝 I regularly write articles on [lordgift.in.th](lordgift.in.th) for sharing my technical experiences.
+- 📝 I regularly write articles on [lordgift.in.th](lordgift.in.th), that you can sponsers me by click on Ads 😋.
   
   [![Visit Website](https://img.shields.io/badge/Visit%20Website-lordgift.in.th%20%E2%86%92-blue?style=for-the-badge&labelColor=302d41&color=b7bdf8)](https://lordgift.in.th)
 
