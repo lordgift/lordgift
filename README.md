@@ -37,11 +37,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lordgift&show_icons=true&locale=en" alt="lordgift" /></p>
 
 -->
-<div align="center">
+<!-- <div align="center"> -->
     
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lordgift&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lordgift&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lordgift&layout=compact&theme=dark)
 
-</div>
+<!-- </div> -->
