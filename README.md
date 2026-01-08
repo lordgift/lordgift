@@ -17,6 +17,17 @@
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ !-->
 
 ---
+### Certificate
+
+<a href="https://www.credly.com/badges/704300c6-f7f9-4bca-9187-fe213cdd1417" title="Oracle Certified Associate, Java SE 8 Programmer"><img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" alt="Oracle Certified Associate, Java SE 8 Programmer" width="100" height="100"></a>
+
+
+### Google Developer Badges ([lordgift](https://g.dev/lordgift))
+
+<a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" title="Android Studio User"><img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" width="80" height="80"></a>
+<a href="https://developers.google.com/profile/badges/activity/chrome-devtools/code-whisperer" title="Code Whisperer"><img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/code-whisperer/badge.svg" alt="Code Whisperer" width="80" height="80"></a>
+<a href="https://developers.google.com/profile/badges/community/gde/follower" title="Google Developer Experts follower"><img src="https://developers.google.com/static/profile/badges/community/gde/follower/badge.svg" alt="Google Developer Experts follower" width="80" height="80"></a>
+
 
 ### Technical Arsenal
 [![My Skills](https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,java,spring,hibernate,gradle,go,js,ts,nodejs,firebase,googlecloud,cloudflare,idea,sqlite,mongodb,mysql,docker,kubernetes,jenkins,grafana,rabbitmq,redis,postman,arduino,python,ruby,php,laravel,jquery,flutter,figma,regex)](#)
