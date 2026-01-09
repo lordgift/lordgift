@@ -24,9 +24,18 @@
 
 ### Google Developer Badges ([lordgift](https://g.dev/lordgift))
 
+<a href="https://developers.google.com/static/profile/badges/playlists/android/kotlin-fundamentals-ten/" title="Kotlin Fundamentals: Design for everyone"><img src="https://developers.google.com/static/profile/badges/playlists/android/kotlin-fundamentals-ten/badge.svg" alt="Kotlin Fundamentals: Design for everyone" width="80" height="80"></a>
+<a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio" title="Firebase Studio Developer Community"><img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="Firebase Studio Developer Community" width="80" height="80"></a>
 <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio" title="Android Studio User"><img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" width="80" height="80"></a>
 <a href="https://developers.google.com/profile/badges/activity/chrome-devtools/code-whisperer" title="Code Whisperer"><img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/code-whisperer/badge.svg" alt="Code Whisperer" width="80" height="80"></a>
 <a href="https://developers.google.com/profile/badges/community/gde/follower" title="Google Developer Experts follower"><img src="https://developers.google.com/static/profile/badges/community/gde/follower/badge.svg" alt="Google Developer Experts follower" width="80" height="80"></a>
+<a href="https://developers.google.com/static/profile/badges/community/sdlcagents/gca-agents/" title="Code Wiki Gemini CLI extension"><img src="https://developers.google.com/static/profile/badges/community/sdlcagents/gca-agents/badge.svg" alt="Code Wiki Gemini CLI extension" width="80" height="80"></a>
+<a href="https://developers.google.com/static/profile/badges/recognitions/learnings/" title="Learning"><img src="https://developers.google.com/static/profile/badges/recognitions/learnings/learnings.svg" alt="Learning" width="80" height="80"></a>
+<a href="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/" title="Chrome DevTools User"><img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" width="80" height="80"></a>
+
+
+
+
 
 
 ### Technical Arsenal
