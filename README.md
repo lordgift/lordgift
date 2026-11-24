@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://lordgift.in.th"><img src="https://img.shields.io/badge/Blog-lordgift.in.th-b7bdf8?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=302d41" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/jarupath-jitdoungprem-761583bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=302d41" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/6918659/lordgift"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=302d41" alt="Stack Overflow" /></a>
+  <a href="https://www.linkedin.com/in/jarupath-jitdoungprem-761583bb/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABACAYAAABMQLqaAAAEtklEQVR4Aeyba6hMXRzGZ857632971tuSW4hySX55INIyJ0okRARRUIuKVHCB6JcCkW5lcsHEXKN8oVI%2BUQ%2Byf1%2BS%2B7knPF7ZJwzZu09/9nnYM2efXqeWWv/13/t2c%2Bz1%2BzZa80%2BFSn%2BMplMAzgX3oafYGVMKW130LYUNkW6ExU01qdlB1wFW8DfoMyKI6WtOfoWw91o/4MyDxI%2BiuhgqA4UZQHp7o3SlTAPapxKtJwMQe43jGK0NPq29bUiU9p9rZdj8TeidfmgqIZMKddRIhfSvMgDimrkBaqbyreWmOI491FMecZ%2BzsGT8Cp8D2OFYkypRLnuZ5qn0%2BkecCDsRKwbvAdjA6spMmQKqidjRM7IYPsy8Y7wAIwFLKZkULoR8Tug6mzmgvhLItPgG1jysJjyHJXLYSgw5gkJy2DJw2LKTVS%2BghYcJMk5moiXDCymfECNVaiuN5/I//WoxRFYTGnA/q13va3Jdc48iZcMLKa0RU1naMF8S5LvORZTdOZ3MptsGCSGtjQcQftQWPKwmCKRHXjZi/B6lC70IbgFxgJWUyS2Hy9aypuNOf1hHzgEbieuW/7GlLFAMaZIsNYe1lI5Co/DQ3AitF6ISfUfxZoiRVqD%2BJ3Kn1BmaJtqfBDFlPioD1BiNUV3tHfZRxjDZsph/dR2n31XwZrQTeBZApvgHDgS6tttLOUCqPgJSs27KOoOVlO28pYtC7A97UEo1LcrHWtOJi%2By3Y75VE84A66DB%2BBRuBeuhooPIq8N3A/rDFZTUhxEJowcUeBUIKyf2uibxWsqmlT2I645F5vhIE%2BLXqPJEh9R1hpmU2r9ToV3IFMXIXIJLOojQX4V3Mdb6AZSczWq0eGTKRK1ObqUlEbzhVQqtQJqUYwiGnwxRR%2BBaZztWp9lbNCSqdZ2qEaDF6Zghoa/vm2%2BU1H8Jvu6Ra8jMDK8MCXy0Qd33EDT91/xhGzw0hTmU/VgXzgdzoKD4D82SV%2BytJj%2B4EstwotXpiBcj4boaYBLaDkNdYO2nvIYvEp7T8qC4COkUXKlYGJAglemcIz94WHouhHUDeAujGlCuwU3LEmuHN9MmclB/gtd0MRTxix0NTpiDx0xU8gbUxgBmnX3Mhy1rjVBi101u7%2BouVFM3RtTOGhdLyxi/yc3cGmUtizeZSvFlj6Z0sV48BpRFvN0sTXuMjfNJ1OsF1AtbGkxPVdJHW75ZIpGgEWaLriiJTdSjk%2BmRBLwIzolpjhcTUxJTHE44Aj9jJHieFu/Q4kpjvOTmJKY4nDAEUpGSmKKwwFHKBkpiSkOBwixlqNl0FaUTWH9ZKRgCtA/Qg2hHC4mpuACaAY/Qv32VGk1pQPDakIY2eE46ERYv2wbHfVcHUVB/EXGsGy/oJKc7tCKayTq9%2BvzlI%2BtpgwgeWcBhj0IWKiv2geyfwv%2BI0mPxatPGCeRZwI/iej5G/2qqMXuU1ZTTDsv5SSMeQufwarEFMeZTEwJMMX0LIejbxxCelAob9VfI%2BV6HNRF1KDnYfJ%2BNJMp29hhuY4W/X/SU/TnQKbsIXIG5g0jYnGFPjZ6FGwe3zaq5%2BisIKh/hxtPdCl0Pc9KODbQiddzK2tQNAbt%2BvhQzcVnAAAA//%2BJ2QUrAAAABklEQVQDAPyPXbRTospAAAAAAElFTkSuQmCC&logoColor=white&labelColor=302d41" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/6918659/lordgift"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FF5E00?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjM2NS44NzYgOTAuNTgyIDIzNC4yNDggMjczLjcyOSI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTU2OC4yMjkgMjM5LjM4NEw1NjguNjMgMjM5LjU5M0w1NjguNTI0IDIzOS42OTdMNTY4LjIyOSAyMzkuNDA1QzU1OS4yMSAyNTAuOTM2IDU1MS42NDggMjYzLjYzNSA1NDUuODE4IDI3Ny4yMUM1NDUuNzMzIDI3Ny40MTkgNTQ1LjY0OSAyNzcuNjA3IDU0NS41NjQgMjc3LjgxNUM1MzkuOTQ2IDI5MS4wNTYgNTM1Ljk1NCAzMDUuMTMyIDUzMy44NjMgMzE5LjgzM0M1MzMuODQyIDMxOS45MTYgNTMzLjg0MiAzMjAuMDIgNTMzLjg0MiAzMjAuMTA0QzUzMi43MjIgMzI3LjkwMiA1MzIuMTUyIDMzNS44NjggNTMyLjE1MiAzNDMuOTU5QzUzMi4xNTIgMzUwLjg0IDUzMi41NzQgMzU3LjYzOCA1MzMuMzc3IDM2NC4zMTFMMzY1Ljg3NiAzNjQuMzExTDM2NS44NzYgMzE5LjgzM0w1MTEuMzI1IDMxOS44MzNDNTExLjYgMzE3Ljk5OCA1MTEuOTE3IDMxNi4yMDQgNTEyLjI1NSAzMTQuMzlMMzcyLjEyOSAyNzcuMzE1TDM4My43ODggMjM0LjMzOEw1MjUuNjQ2IDI3MS44NzJDNTI2LjMwMSAyNzAuNDMzIDUyNi45NzcgMjY5LjAxNSA1MjcuNjUzIDI2Ny41OTdMNDAwLjM0OCAxOTUuMDMxTDQyMi44NjUgMTU2LjUxN0w1NTIuMDcgMjMwLjE0N0M1NTMuMDg0IDIyOC45MzcgNTU0LjExOSAyMjcuNzI4IDU1NS4xOTYgMjI2LjUzOUw0NDkuMzMxIDEyMi4wNDhMNDgxLjIwNSA5MC41ODJMNTg4Ljc2IDE5Ni43ODNMNjAwLjEyNCAyMDguMDAxQzU4OC4xNjggMjE3LjA1MSA1NzcuNDM4IDIyNy42MDMgNTY4LjIyOSAyMzkuMzg0WiIvPjwvc3ZnPgo%3D&logoColor=white&labelColor=302d41" alt="Stack Overflow" /></a>
 </p>
 
 ---
@@ -32,12 +32,12 @@ Mobile dev by day, full-stack tinkerer by night! 🚀 I love experimenting with 
 
 | | |
 |:--|:--|
-| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,flutter" /> |
-| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,go,nodejs,python,ruby,php,laravel" /> |
-| **🌐 Frontend** | <img src="https://skillicons.dev/icons?i=js,ts,jquery,figma" /> |
-| **🗄️ Data & Messaging** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,rabbitmq" /> |
-| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=firebase,googlecloud,cloudflare,docker,kubernetes,jenkins,grafana" /> |
-| **🧰 Tools & Fun** | <img src="https://skillicons.dev/icons?i=idea,postman,regex,arduino" /> |
+| **📱 Mobile** | <img src="assets/skills/mobile.svg" /> |
+| **⚙️ Backend** | <img src="assets/skills/backend.svg" /> |
+| **🌐 Frontend** | <img src="assets/skills/frontend.svg" /> |
+| **🗄️ Data & Messaging** | <img src="assets/skills/data.svg" /> |
+| **☁️ Cloud & DevOps** | <img src="assets/skills/cloud.svg" /> |
+| **🧰 Tools & Fun** | <img src="assets/skills/tools.svg" /> |
 
 ---
 
