@@ -12,7 +12,7 @@ The tiles below were rebuilt from each brand's own files (checked 2026-11-24):
 
 | Tile / badge | Official source |
 |---|---|
-| `apple` | apple.com global-nav mark (monochrome, white on dark tile) |
+| `xcode` | developer.apple.com/xcode page icon (`/assets/elements/icons/xcode-s/xcode-s-256x256_2x.png`, updated 2026-09-09), trimmed and scaled to 256px |
 | `androidstudio` | developer.android.com/static/studio/images/android-studio-stable.svg |
 | `nodejs` | nodejs.org/static/logos/jsIconGreen.svg (#5FA04E) |
 | `ts` | typescriptlang.org/branding/typescript-design-assets.zip, `ts-logo-128.svg` (#3178C6) |
