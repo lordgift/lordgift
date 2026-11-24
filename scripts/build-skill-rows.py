@@ -15,7 +15,7 @@ ICONS = ROOT / "assets" / "icons"
 OUT = ROOT / "assets" / "skills"
 
 ROWS = {
-    "mobile": ["swift", "apple", "kotlin", "androidstudio", "flutter"],
+    "mobile": ["swift", "xcode", "kotlin", "androidstudio", "flutter"],
     "backend": ["java", "spring", "hibernate", "gradle", "go", "nodejs", "python", "ruby", "php", "laravel"],
     "frontend": ["js", "ts", "jquery", "figma"],
     "data": ["mysql", "mongodb", "sqlite", "redis", "rabbitmq"],
