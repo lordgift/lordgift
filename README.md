@@ -30,14 +30,87 @@ Mobile dev by day, full-stack tinkerer by night! 🚀 I love experimenting with 
 
 ### 🛠️ Tech Stack
 
-| | |
-|:--|:--|
-| **📱 Mobile** | <a href="https://www.swift.org" title="Swift"><img src="assets/icons/swift.svg" alt="Swift" width="48" height="48" /></a>&ensp;<a href="https://developer.apple.com/xcode/" title="Xcode"><img src="assets/icons/xcode.svg" alt="Xcode" width="48" height="48" /></a>&ensp;<a href="https://kotlinlang.org" title="Kotlin"><img src="assets/icons/kotlin.svg" alt="Kotlin" width="48" height="48" /></a>&ensp;<a href="https://developer.android.com/studio" title="Android Studio"><img src="assets/icons/androidstudio.svg" alt="Android Studio" width="48" height="48" /></a>&ensp;<a href="https://flutter.dev" title="Flutter"><img src="assets/icons/flutter.svg" alt="Flutter" width="48" height="48" /></a> |
-| **⚙️ Backend** | <a href="https://dev.java" title="Java"><img src="assets/icons/java.svg" alt="Java" width="48" height="48" /></a>&ensp;<a href="https://spring.io" title="Spring"><img src="assets/icons/spring.svg" alt="Spring" width="48" height="48" /></a>&ensp;<a href="https://hibernate.org" title="Hibernate"><img src="assets/icons/hibernate.svg" alt="Hibernate" width="48" height="48" /></a>&ensp;<a href="https://gradle.org" title="Gradle"><img src="assets/icons/gradle.svg" alt="Gradle" width="48" height="48" /></a>&ensp;<a href="https://go.dev" title="Go"><img src="assets/icons/go.svg" alt="Go" width="48" height="48" /></a>&ensp;<a href="https://nodejs.org" title="Node.js"><img src="assets/icons/nodejs.svg" alt="Node.js" width="48" height="48" /></a>&ensp;<a href="https://www.python.org" title="Python"><img src="assets/icons/python.svg" alt="Python" width="48" height="48" /></a>&ensp;<a href="https://www.ruby-lang.org" title="Ruby"><img src="assets/icons/ruby.svg" alt="Ruby" width="48" height="48" /></a>&ensp;<a href="https://www.php.net" title="PHP"><img src="assets/icons/php.svg" alt="PHP" width="48" height="48" /></a>&ensp;<a href="https://laravel.com" title="Laravel"><img src="assets/icons/laravel.svg" alt="Laravel" width="48" height="48" /></a> |
-| **🌐 Frontend** | <a href="https://tc39.es" title="JavaScript"><img src="assets/icons/js.svg" alt="JavaScript" width="48" height="48" /></a>&ensp;<a href="https://www.typescriptlang.org" title="TypeScript"><img src="assets/icons/ts.svg" alt="TypeScript" width="48" height="48" /></a>&ensp;<a href="https://jquery.com" title="jQuery"><img src="assets/icons/jquery.svg" alt="jQuery" width="48" height="48" /></a>&ensp;<a href="https://www.figma.com" title="Figma"><img src="assets/icons/figma.svg" alt="Figma" width="48" height="48" /></a> |
-| **🗄️ Data & Messaging** | <a href="https://www.mysql.com" title="MySQL"><img src="assets/icons/mysql.svg" alt="MySQL" width="48" height="48" /></a>&ensp;<a href="https://www.mongodb.com" title="MongoDB"><img src="assets/icons/mongodb.svg" alt="MongoDB" width="48" height="48" /></a>&ensp;<a href="https://www.sqlite.org" title="SQLite"><img src="assets/icons/sqlite.svg" alt="SQLite" width="48" height="48" /></a>&ensp;<a href="https://redis.io" title="Redis"><img src="assets/icons/redis.svg" alt="Redis" width="48" height="48" /></a>&ensp;<a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="assets/icons/rabbitmq.svg" alt="RabbitMQ" width="48" height="48" /></a> |
-| **☁️ Cloud & DevOps** | <a href="https://firebase.google.com" title="Firebase"><img src="assets/icons/firebase.svg" alt="Firebase" width="48" height="48" /></a>&ensp;<a href="https://cloud.google.com" title="Google Cloud"><img src="assets/icons/googlecloud.svg" alt="Google Cloud" width="48" height="48" /></a>&ensp;<a href="https://www.cloudflare.com" title="Cloudflare"><img src="assets/icons/cloudflare.svg" alt="Cloudflare" width="48" height="48" /></a>&ensp;<a href="https://www.docker.com" title="Docker"><img src="assets/icons/docker.svg" alt="Docker" width="48" height="48" /></a>&ensp;<a href="https://kubernetes.io" title="Kubernetes"><img src="assets/icons/kubernetes.svg" alt="Kubernetes" width="48" height="48" /></a>&ensp;<a href="https://www.jenkins.io" title="Jenkins"><img src="assets/icons/jenkins.svg" alt="Jenkins" width="48" height="48" /></a>&ensp;<a href="https://grafana.com" title="Grafana"><img src="assets/icons/grafana.svg" alt="Grafana" width="48" height="48" /></a> |
-| **🧰 Tools & Fun** | <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="assets/icons/idea.svg" alt="IntelliJ IDEA" width="48" height="48" /></a>&ensp;<a href="https://www.postman.com" title="Postman"><img src="assets/icons/postman.svg" alt="Postman" width="48" height="48" /></a>&ensp;<a href="https://pubs.opengroup.org/onlinepubs/9799919799/basedefs/V1_chap09.html" title="Regular Expressions"><img src="assets/icons/regex.svg" alt="Regular Expressions" width="48" height="48" /></a>&ensp;<a href="https://www.arduino.cc" title="Arduino"><img src="assets/icons/arduino.svg" alt="Arduino" width="48" height="48" /></a> |
+<table>
+  <thead>
+    <tr>
+      <th align="left"></th>
+      <th align="left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 📱 Mobile -->
+    <tr>
+      <td align="left"><strong>📱 Mobile</strong></td>
+      <td align="left"><!--
+        --><a href="https://www.swift.org" title="Swift"><img src="assets/icons/swift.svg" alt="Swift" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://developer.apple.com/xcode/" title="Xcode"><img src="assets/icons/xcode.svg" alt="Xcode" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://kotlinlang.org" title="Kotlin"><img src="assets/icons/kotlin.svg" alt="Kotlin" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://developer.android.com/studio" title="Android Studio"><img src="assets/icons/androidstudio.svg" alt="Android Studio" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://flutter.dev" title="Flutter"><img src="assets/icons/flutter.svg" alt="Flutter" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+    <!-- ⚙️ Backend -->
+    <tr>
+      <td align="left"><strong>⚙️ Backend</strong></td>
+      <td align="left"><!--
+        --><a href="https://dev.java" title="Java"><img src="assets/icons/java.svg" alt="Java" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://spring.io" title="Spring"><img src="assets/icons/spring.svg" alt="Spring" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://hibernate.org" title="Hibernate"><img src="assets/icons/hibernate.svg" alt="Hibernate" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://gradle.org" title="Gradle"><img src="assets/icons/gradle.svg" alt="Gradle" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://go.dev" title="Go"><img src="assets/icons/go.svg" alt="Go" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://nodejs.org" title="Node.js"><img src="assets/icons/nodejs.svg" alt="Node.js" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.python.org" title="Python"><img src="assets/icons/python.svg" alt="Python" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.ruby-lang.org" title="Ruby"><img src="assets/icons/ruby.svg" alt="Ruby" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.php.net" title="PHP"><img src="assets/icons/php.svg" alt="PHP" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://laravel.com" title="Laravel"><img src="assets/icons/laravel.svg" alt="Laravel" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+    <!-- 🌐 Frontend -->
+    <tr>
+      <td align="left"><strong>🌐 Frontend</strong></td>
+      <td align="left"><!--
+        --><a href="https://tc39.es" title="JavaScript"><img src="assets/icons/js.svg" alt="JavaScript" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.typescriptlang.org" title="TypeScript"><img src="assets/icons/ts.svg" alt="TypeScript" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://jquery.com" title="jQuery"><img src="assets/icons/jquery.svg" alt="jQuery" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.figma.com" title="Figma"><img src="assets/icons/figma.svg" alt="Figma" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+    <!-- 🗄️ Data & Messaging -->
+    <tr>
+      <td align="left"><strong>🗄️ Data &amp; Messaging</strong></td>
+      <td align="left"><!--
+        --><a href="https://www.mysql.com" title="MySQL"><img src="assets/icons/mysql.svg" alt="MySQL" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.mongodb.com" title="MongoDB"><img src="assets/icons/mongodb.svg" alt="MongoDB" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.sqlite.org" title="SQLite"><img src="assets/icons/sqlite.svg" alt="SQLite" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://redis.io" title="Redis"><img src="assets/icons/redis.svg" alt="Redis" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.rabbitmq.com" title="RabbitMQ"><img src="assets/icons/rabbitmq.svg" alt="RabbitMQ" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+    <!-- ☁️ Cloud & DevOps -->
+    <tr>
+      <td align="left"><strong>☁️ Cloud &amp; DevOps</strong></td>
+      <td align="left"><!--
+        --><a href="https://firebase.google.com" title="Firebase"><img src="assets/icons/firebase.svg" alt="Firebase" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://cloud.google.com" title="Google Cloud"><img src="assets/icons/googlecloud.svg" alt="Google Cloud" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.cloudflare.com" title="Cloudflare"><img src="assets/icons/cloudflare.svg" alt="Cloudflare" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.docker.com" title="Docker"><img src="assets/icons/docker.svg" alt="Docker" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://kubernetes.io" title="Kubernetes"><img src="assets/icons/kubernetes.svg" alt="Kubernetes" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.jenkins.io" title="Jenkins"><img src="assets/icons/jenkins.svg" alt="Jenkins" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://grafana.com" title="Grafana"><img src="assets/icons/grafana.svg" alt="Grafana" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+    <!-- 🧰 Tools & Fun -->
+    <tr>
+      <td align="left"><strong>🧰 Tools &amp; Fun</strong></td>
+      <td align="left"><!--
+        --><a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="assets/icons/idea.svg" alt="IntelliJ IDEA" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.postman.com" title="Postman"><img src="assets/icons/postman.svg" alt="Postman" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://pubs.opengroup.org/onlinepubs/9799919799/basedefs/V1_chap09.html" title="Regular Expressions"><img src="assets/icons/regex.svg" alt="Regular Expressions" width="48" height="48" /></a>&ensp;<!--
+        --><a href="https://www.arduino.cc" title="Arduino"><img src="assets/icons/arduino.svg" alt="Arduino" width="48" height="48" /></a><!--
+      --></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
