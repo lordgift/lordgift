@@ -2,8 +2,7 @@
 
 The profile README serves these images from the repo instead of third-party icon services, so they stay current.
 
-- `icons/` has one 256×256 tile per skill, in the skillicons.dev dark style (rounded 60px corners).
-- `skills/` has the six "Tech Stack" rows. Each row is built from `icons/` by `python3 scripts/build-skill-rows.py`. To add, remove or reorder an icon, change `ROWS` in that script and run it again.
+- `icons/` has one 256×256 tile per skill, in the skillicons.dev dark style (rounded 60px corners). The "Tech Stack" table in the root `README.md` embeds each tile individually at 48×48px (separated by `&ensp;`) and links it to that technology's official website.
 - `badges/` has the source marks that are base64-embedded in the shields.io badges at the top of the README.
 
 ## Where the logos come from
